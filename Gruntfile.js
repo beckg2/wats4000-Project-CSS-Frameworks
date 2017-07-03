@@ -41,7 +41,7 @@ module.exports = function (grunt) {
       pages: {
         options: {
           remote: 'git@github.com:beckg2/wats4000-Project-CSS-Frameworks.git',
-          branchK 'gh-pages'
+          branch: 'gh-pages'
         }
       }
     },
